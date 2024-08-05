@@ -1,0 +1,38 @@
+{
+  "dovat": [
+    {
+      "id": "1",
+      "ten": "Vuong Hoang Long",
+      "email": "vhoanglong@gmail.com",
+      "sodienthoai": "0123456789",
+      "diachi": "Ha Noi",
+      "tendovat": "IP 15 PROMAX  ",
+      "motadovat": "Thiết bị điện tử cá nhân để liên lạc và truy cập internet.",
+      "anhdovat": "https://cdn.tgdd.vn/Products/Images/42/305660/iphone-15-pro-max-gold-thumbnew-600x600.jpg",
+      "gia": "10.000.000"
+    },
+    {
+      "id": "2",
+      "ten": "Vuong Huyen Trang ",
+      "email": "huyentrang1709@gmail.com",
+      "sodienthoai": "0123012366",
+      "diachi": "Ho chi minh",
+      "tendovat": "Máy ảnh kỹ thuật số ",
+      "motadovat": "Thiết bị để chụp ảnh và quay video.",
+      "anhdovat": "https://binhminhdigital.com/storedata/images/product/may-anh-sony-alpha-a6600-kit-18-135mm-oss-den.jpg",
+      "gia": "50.000.000"
+    },
+    {
+      "id": "eb26",
+      "ten": "nguyễn mạnh cường",
+      "email": "nmanhc@gmail.com",
+      "sodienthoai": "12213213123",
+      "diachi": "Ha noi",
+      "tendovat": "ĐSD",
+      "motadovat": "dsadas",
+      "anhdovat": "https://maisonoffice.vn/wp-content/uploads/2023/05/bat-dong-san-thuong-mai-1.jpg",
+      "gia": "1000000"
+    }
+  ]
+  
+}
